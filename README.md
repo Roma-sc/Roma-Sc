@@ -26,4 +26,3 @@
 
 ###
 
- ![Snake animation](https://github.com/Roma-sc/Roma-sc/blob/output/github-contribution-grid-snake.svg)
