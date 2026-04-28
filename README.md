@@ -5,11 +5,13 @@
   </a>
 </div>
 
-<p align="left">
-  <img src="link-python" width="40" /><br>
-  <img src="link-java" width="40" /><br>
-  <img src="link-html" width="40" /><br>
-</p>
+| Tech Stack |
+| :---: |
+| <img src="link-do-python.png" width="40"> |
+| <img src="link-do-java.png" width="40"> |
+| <img src="link-do-html.png" width="40"> |
+| <img src="link-do-css.png" width="40"> |
+| <img src="link-do-js.png" width="40"> |
 
 #
 
