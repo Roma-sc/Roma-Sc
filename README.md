@@ -7,11 +7,11 @@
 
 | Tech Stack |
 | :---: |
-| <img src="link-do-python.png" width="40"> |
-| <img src="link-do-java.png" width="40"> |
-| <img src="link-do-html.png" width="40"> |
-| <img src="link-do-css.png" width="40"> |
-| <img src="link-do-js.png" width="40"> |
+| <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><br> |
+| <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /><br> |
+| <img align="center" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br> |
+| <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><br> |
+|<img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><br> |
 
 #
 
