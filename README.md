@@ -1,4 +1,4 @@
-# Hello, my name is Sara Roma, and welcome to my GitHub 😊
+# Hello, my name is Sara Roma, and welcome to my GitHub 😊.
 
 <div align="">
   <a href="https://github.com/Roma-sc">
